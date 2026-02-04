@@ -1,0 +1,11 @@
+{
+    "name": "yangpyeong-project",
+    "version": "1.0.0",
+    "description": "Yangpyeong Eco Modular House Project",
+    "scripts": {
+        "build": "mkdir -p dist && cp MARKETING_REPORT.html dist/index.html && cp -r *.html dist/ 2>/dev/null || :"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
