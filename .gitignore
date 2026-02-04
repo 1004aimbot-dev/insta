@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# MCP Project Specifics
+auth_cookies.json
+current_notebook_id.txt
+roi_result.txt
+insta_post_draft.txt
+
+# Temp files
+*.tmp
+*.bak
+
+# Reports (Optionally keep, but maybe exclude HTML if large? Keep for now)
+# keys
+*.key
